@@ -60,7 +60,7 @@ Detailed Report:
 
 --------------------
 Message: Congratulations! You've won a $1,000 Walmart gift card. Click here to claim.
-Result: SPAM 🚨
+Result: SPAM 
 ```
 
 ---
